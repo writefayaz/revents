@@ -18,4 +18,5 @@ if (module.hot){
 
 render();
 //ReactDOM.render(<App />, document.getElementById('root'));
+//Changes
 registerServiceWorker();
